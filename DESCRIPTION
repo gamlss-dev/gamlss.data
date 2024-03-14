@@ -3,8 +3,8 @@ Description: Data used as examples in the current two books on Generalised Addit
 Title: Data for Generalised Additive Models for Location Scale and
         Shape
 LazyData: yes
-Version: 6.0-5
-Date: 2024-03-01
+Version: 6.0-6
+Date: 2024-03-14
 Depends: R (>= 3.5.0)
 Author: Mikis Stasinopoulos <d.stasinopoulos@gre.ac.uk>, Bob
         Rigby, Fernanda De Bastiani 
