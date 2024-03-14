@@ -3,12 +3,12 @@ Description: Data used as examples in the current two books on Generalised Addit
 Title: Data for Generalised Additive Models for Location Scale and
         Shape
 LazyData: yes
-Version: 6.0-3
+Version: 6.0-5
 Date: 2024-03-01
 Depends: R (>= 3.5.0)
-Author: Mikis Stasinopoulos <d.stasinopoulos@londonmet.ac.uk>, Bob
+Author: Mikis Stasinopoulos <d.stasinopoulos@gre.ac.uk>, Bob
         Rigby, Fernanda De Bastiani 
-Maintainer: Mikis Stasinopoulos <d.stasinopoulos@londonmet.ac.uk>
+Maintainer: Mikis Stasinopoulos <d.stasinopoulos@gre.ac.uk>
 License: GPL-2 | GPL-3
 URL: https://www.gamlss.com/
 NeedsCompilation: no

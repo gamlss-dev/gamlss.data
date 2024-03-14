@@ -19,7 +19,8 @@ In this example, (the data have been changed for confidentiality) 197 girls diag
 
 \source{Dr Maria Durban}
 \references{
-Durban M. (2016) \emph{Splines con Penalizaciones: Teoria y aplicaciones},  \url{http://halweb.uc3m.es/esp/Personal/personas/durban/esp/web/cursos/Psplines/Psplines.html} 
+Durban M. (2016) \emph{Splines con Penalizaciones: Teoria y aplicaciones}, 
+\url{https://halweb.uc3m.es/esp/Personal/personas/durban/esp/web/cursos/Psplines/Psplines.html} 
 }
 \examples{data(Leukemia)}
 \keyword{datasets}

@@ -32,7 +32,9 @@ Statistical Society of Canada,
 , Accessed 13 February 2019,
 	
 }
-\references{ Routhier-Labadie, A., Ouellet, V.,  Bellemare, W., Richard, D., Lakhal-Chaieb, L., Turcotte, E., and Carpentier, A. C. (2011), Outdoor Temperature, Age, Sex, Body Mass Index, and Diabetic Status Determine the Prevalence, Mass, and Glucose-Uptake Activity of 18{F}-{FDG}-Detected {BAT} in Humans.\emph{The Journal of Clinical Endocrinology and Metabolism}, 	Volume \bold{96}, number 1, pp 192-199.
+\references{ 
+
+Ouellet, V., Routhier-Labadie, A., Bellemare, W., Lakhal-Chaieb, L., Turcotte, E., Carpentier, A.C. and Richard, D., (2011). Outdoor temperature, age, sex, body mass index, and diabetic status determine the prevalence, mass, and glucose-uptake activity of 18F-FDG-detected BAT in humans. \emph{The Journal of Clinical Endocrinology & Metabolism}, 96(1), pp.192-199.
 
 }
 \examples{
