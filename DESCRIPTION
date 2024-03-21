@@ -1,12 +1,19 @@
 Package: gamlss.data
-Description: Data for GAMLSS models.
-Title: GAMLSS Data.
-LazyData: yes
-Version: 4.2-6
-Date: 2013-11-05
-Depends: R (>= 2.10)
-Author: Mikis Stasinopoulos <d.stasinopoulos@londonmet.ac.uk>, Bob
-        Rigby <r.rigby@londonmet.ac.uk>
-Maintainer: Mikis Stasinopoulos <d.stasinopoulos@londonmet.ac.uk>
+Title: Data for Generalized Additive Models for Location Scale and Shape
+Version: 6.0-7
+Date: 2024-03-17
+Authors@R: c(person("Mikis", "Stasinopoulos", role = c("aut", "cre"), 
+           email = "d.stasinopoulos@gre.ac.uk", comment = c(ORCID = "0000-0003-2407-5704")),
+           person("Robert", "Rigby", role = "aut", email = "r.rigby@gre.ac.uk", comment = c(ORCID = "0000-0003-3853-1707")),
+           person("Fernanda", "De Bastiani", role = "ctb", comment = c(ORCID = "0000-0001-8532-639X"))
+           )
+Description: Data used as examples in the books on Generalized Additive Models for Location Scale and Shape:
+  Stasinopoulos, Rigby, Heller, Voudouris, De Bastiani (2017). Flexible Regression and Smoothing: Using GAMLSS in R, <doi:10.1201/b21973>.
+  Rigby, Stasinopoulos, Heller, De Bastiani (2019). Distributions for Modeling Location, Scale, and Shape Using GAMLSS in R, <doi:10.1201/9780429298547>.
+  Stasinopoulos, Kneib, Klein, Mayr, Heller (2024). Generalized Additive Models for Location, Scale and Shape: A Distributional Regression Approach, with Applications, <doi:10.1017/9781009410076>.
 License: GPL-2 | GPL-3
-URL: http://www.gamlss.org/
+URL: https://www.gamlss.com/
+BugReports: https://github.com/gamlss-dev/gamlss.data/issues
+Depends: R (>= 3.5.0)
+LazyData: yes
+NeedsCompilation: no

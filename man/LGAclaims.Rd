@@ -4,9 +4,6 @@
 \docType{data}
 \title{The LGA Claims Data files for GAMLSS}
 \description{
-  These are several small data files usefull for gamlss fits.
-
-
  LGAclaims: the data were given by Gillian Heller and can be found in de Jong and Heller (2007).
        This data set records the number of third party claims, \code{Claims}, in a twelve month
       period between 1984-1986 in each of 176 geographical areas (local government areas) in New South Wales,
@@ -16,9 +13,6 @@
 
   }
 \usage{
-
-
-
 data(LGAclaims)
 }
 \format{
@@ -27,13 +21,13 @@ data(LGAclaims)
     \item{Claims}{the number of third party claims}
     \item{LGA}{Local government areas in New South Wales}
     \item{SD}{statistical divisions}
-    \item{Pop$\_$density}{population density}
+    \item{Pop_density}{population density}
     \item{KI}{the number of people killed or injured}
     \item{Accidents}{the number of accidents}
     \item{Population}{population size}
-    \item{L$\_$KI}{log of KI}
-    \item{L$\_$Accidents}{the log of the number of accidents}
-    \item{L$\_$Population}{log Population}
+    \item{L_KI}{log of KI}
+    \item{L_Accidents}{the log of the number of accidents}
+    \item{L_Population}{log Population}
   }
 }
 \details{Data sets usefull for the GAMLSS booklet}

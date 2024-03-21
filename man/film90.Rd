@@ -7,26 +7,26 @@ Data from film revenues from the 1990s'.
 }
 \usage{data(film90)}
 \format{
-  A data frame with 4031 observations on the following 14 variables.
+  A data frame with 4031 observations on the following 4 variables.
   \describe{
-    \item{\code{time}}{Date of release of the film}
-    \item{\code{year}}{the year of release of the film}
-    \item{\code{month}}{a factor, the month of release of the film}
-    \item{\code{title}}{a factor indicating the tittle of the film}
-    \item{\code{borev0}}{real box office revenues, calculated in 1987 prices}
-    \item{\code{lborev0}}{the log of real box office revenues, calculated in 1987 prices}
-    \item{\code{nosc}}{the number of screens}
+ %   \item{\code{time}}{Date of release of the film}
+ %   \item{\code{year}}{the year of release of the film}
+ %    \item{\code{month}}{a factor, the month of release of the film}
+ %    \item{\code{title}}{a factor indicating the tittle of the film}
+ %    \item{\code{borev0}}{real box office revenues, calculated in 1987 prices}
+ %    \item{\code{lborev0}}{the log of real box office revenues, calculated in 1987 prices}
+ %    \item{\code{nosc}}{the number of screens}
     \item{\code{lnosc}}{the log of the number of screens}
-    \item{\code{boopen}}{box office opening revenues calculated in 1987 prices}
-    \item{\code{lboopen}}{the log of box office opening revenues calculated in 1987 prices}
-    \item{\code{borev1}}{the box office revenues after the first week, \code{borev0-boopen}}
+ %    \item{\code{boopen}}{box office opening revenues calculated in 1987 prices}
+    \item{\code{lboopen}}{the log of box office opening revenues}
+ %   \item{\code{borev1}}{the box office revenues after the first week, \code{borev0-boopen}}
     \item{\code{lborev1}}{the log of box office revenues after the first week}
     \item{\code{dist}}{a factor indicating whether \code{Independent} or  \code{Major} distributor}
-    \item{\code{whetherCost}}{a factor with levels \code{0} \code{1} indication whether the original data has the cost of the film to make}
+  %  \item{\code{whetherCost}}{a factor with levels \code{0} \code{1} indication whether the original data has the cost of the film to make}
   }
 }
 \details{
-Those data are analysed in Voudouris \emph{et. al.} (2011) 
+Those data are data  analysed in Voudouris \emph{et. al.} (2011) suitably anonymised. 
 }
 \source{
 Data collected by Prof. John Sedgwick 
