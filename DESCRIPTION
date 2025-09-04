@@ -1,6 +1,6 @@
 Package: gamlss.data
 Title: Data for Generalized Additive Models for Location Scale and Shape
-Version: 6.0-7
+Version: 6.0-8
 Date: 2025-09-04
 Authors@R: c(person("Mikis", "Stasinopoulos", role = c("aut", "cre"), 
            email = "d.stasinopoulos@gre.ac.uk", comment = c(ORCID = "0000-0003-2407-5704")),
